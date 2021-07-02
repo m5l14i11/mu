@@ -6,3 +6,4 @@ Microservice library
  - Minimalistic
  - Cloud Adopted
  - Reactive
+ - Secure 
