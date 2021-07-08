@@ -10,8 +10,8 @@ Microservice library
  
 
 ## Research 
-https://dflemstr.github.io/v8-rs/v8/index.html
-https://github.com/denoland/rusty_v8
-https://github.com/denoland/deno
-https://github.com/purescript/purescript
+* https://dflemstr.github.io/v8-rs/v8/index.html
+* https://github.com/denoland/rusty_v8
+* https://github.com/denoland/deno
+* https://github.com/purescript/purescript
 
