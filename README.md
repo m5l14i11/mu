@@ -6,4 +6,12 @@ Microservice library
  - Minimalistic
  - Cloud Adopted
  - Reactive
- - Secure 
+ - Secure
+ 
+
+## Research 
+https://dflemstr.github.io/v8-rs/v8/index.html
+https://github.com/denoland/rusty_v8
+https://github.com/denoland/deno
+https://github.com/purescript/purescript
+
