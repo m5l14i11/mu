@@ -14,4 +14,6 @@ Microservice library
 * https://github.com/denoland/rusty_v8
 * https://github.com/denoland/deno
 * https://github.com/purescript/purescript
+* https://github.com/firecracker-microvm/firecracker
+* https://github.com/firecracker-microvm/micro-http
 
