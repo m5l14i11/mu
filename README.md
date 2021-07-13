@@ -8,6 +8,8 @@ Microservice library
  - Reactive
  - Secure
  
+## Reactive Manifesto
+* https://www.reactivemanifesto.org/
 
 ## Research 
 * https://dflemstr.github.io/v8-rs/v8/index.html
