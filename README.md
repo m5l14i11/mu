@@ -20,4 +20,4 @@ Microservice library
 * https://github.com/firecracker-microvm/micro-http
 * https://github.com/microsoft/TypeScript
 * https://doc.akka.io/docs/akka/current/typed/guide/actors-intro.html
-
+* https://openid.net/wg/fapi/
